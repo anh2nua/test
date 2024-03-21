@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26a93d19-9721-412f-b6b7-96e8565394b9" name="Changes" comment="comit thứ hai">
+    <list default="true" id="26a93d19-9721-412f-b6b7-96e8565394b9" name="Changes" comment="12345678">
       <change beforePath="$PROJECT_DIR$/DA_BE/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DA_BE/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +125,7 @@
       <workItem from="1710858670242" duration="1726000" />
       <workItem from="1710991149823" duration="1282000" />
       <workItem from="1710993807686" duration="434000" />
-      <workItem from="1710994262104" duration="864000" />
+      <workItem from="1710994262104" duration="1004000" />
     </task>
     <task id="LOCAL-00001" summary="CRUD Sản phẩm">
       <created>1702972115329</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710995139409</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12345678">
+      <created>1710995268439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710995268439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +184,8 @@
     <MESSAGE value="CRUD Sản phẩm" />
     <MESSAGE value="init" />
     <MESSAGE value="comit thứ hai" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit thứ hai" />
+    <MESSAGE value="12345678" />
+    <option name="LAST_COMMIT_MESSAGE" value="12345678" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
